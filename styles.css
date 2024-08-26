@@ -733,7 +733,7 @@ span{
     }
 }
 
-@media (max-width:371px){
+@media (max-width:375px){
     .home{
         justify-content: center;
     }
@@ -751,6 +751,8 @@ span{
 
     .home-sci{
         width: 160px;
+        position: absolute;
+        bottom: 70px;
     }
 
     .home-sci a{
